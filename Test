@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+        // Declare and initialize variables of different primitive data types
+        int age = 25;                      // int for whole numbers
+        double salary = 55000.75;         // double for decimal numbers
+        boolean isActive = true;          // boolean for true/false
+        char grade = 'A';                 // char for single character
+
+        // Print the values of all variables
+        System.out.println("Age: " + age);
+        System.out.println("Salary: " + salary);
+        System.out.println("Is Active: " + isActive);
+        System.out.println("Grade: " + grade);
+    }
+}
